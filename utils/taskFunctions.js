@@ -48,15 +48,3 @@ export const deleteTask = (id) => {
   // Previously: location.reload(); Now: We'll refresh the UI instead.
   return updatedTasks; // Optionally return the updated tasks list for further processing
 };
-
-
-
-// const mockTask = { // Mock task object, simulating form input
-//   title: "Test Task",
-//   description: "This is a test task",
-//   status: "todo",
-// };
-
-
-// const createdTask = createNewTask(mockTask); // Call createNewTask with the mock task
-// console.log(createdTask);
