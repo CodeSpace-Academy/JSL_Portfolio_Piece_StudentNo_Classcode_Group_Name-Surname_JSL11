@@ -32,12 +32,16 @@ To complete this challenge, follow these steps:
 5. Push your local Git repository to your GitHub account.
 6. Verify that the changes have been successfully pushed to your GitHub repository.
 
+🚨 Make sure that you clear the localStorage as you are building your project. This will help with checking that the tasks are loading correctly. 
+
+![alt text](assets/clear-localStorage.gif)
+
+
+
 ## What You Need to Include:
 
 1. Ensure that your code includes the necessary modifications to meet the challenge requirements.
 2. Your GitHub repository should contain the updated code files.
-
-
 
 # Agile Board Project Feature List
 
